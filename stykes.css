@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
+*{
+box-sizing: border-box;
+
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1581268823924-706f10dff0cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1282&q=80");
+    background-repeat:var(background-size);
+    background-size:cover;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:up;
+    background-position:center center;
+    min-height: 100vh;
+    font-family: "poppins", sans-serif;
+    margin: 0;
+
+}
+/*  
+h1 {
+    /* background-color:rgb(140, 163, 240); */
+   text-align: center;
+   font-size: 40PX;
+   color:white;
+   border-style:dashed;
+   border-width:10px ;
+   border-radius:1px;
+   border-color:blue;
+   font-weight: normal;
+   un
+} */
+ 
+p {
+  p{}
+  color:black;
+
+}
+
+.RAMADAAN-COUNTER {
+      display:flex;
+      text-align: left;
+      /* background-color: burlywood; */
+      padding: 80px;
+}
+
+.big-text {
+       text-align: left;
+       font-size: 6rem;
+       line-height: 1;
+       margin: 0 2rem;
+       margin-top: -20px;
+
+}
+
+.counter-el {
+    text-align: center;
+    font-weight: bold;
+}
+
+.counter-el span {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+  margin:-10px ;
+  font-weight: bold;
+  font-family: Droid Arabic Kufis, serif;
+}
+
+
+
+
+
+
+
